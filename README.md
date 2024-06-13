@@ -1,16 +1,21 @@
 ## Hi there 👋
+### This is Alutu Ifeoma Gloria
 
-<!--
-**iphycolls/iphycolls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭 I’m currently working on ...
+ 
+ 🌱 I’m currently learning data analysis
+ 
+ 👯 I’m looking to collaborate on projects and programmes for data analysis entry level
+ 
+ 🤔 I’m looking for help with with projects, programmes and materials that will aid my learning and transition into data analysis
+ 💬 Ask me about ... 
+ 
+ 📫 How to reach me: [linkedi] (www.linkedin.com/in/ifeoma-gloria-a-630113143)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+😄 Pronou ; she
+
+
+ ⚡ Fun fact: i love to challenge myself on new project
+
